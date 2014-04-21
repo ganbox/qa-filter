@@ -16,3 +16,9 @@ Plugin for additional filtering of user input during question adding. The plugin
 
 Localization:
 The plugin supports language files. For new language you can copy qa-ganbox-lang-en-GB.php to new file qa-ganbox-lang-xx-XX.php (where xx and XX is your language code) and translate strings after sign "=>" to your language.
+
+Installation:
+1. Create new directory ganbox-filter in your qa-plugin directory. 
+2. Put all files in directory ganbox-filter. 
+3. Upload directory ganbox-filter to web server. 
+4. Enter the admin panel of your website and choose needed options.
