@@ -1,7 +1,7 @@
 Ganbox filter plugin version 1.0 for Question2Answer (http://www.question2answer.org)
 Tested on Question2Answer version 1.6.3 (minimum version: 1.5 required)
 Author: Georgi Stefanov
-Author website: http://ganbox.com
+Author website: https://ganbox.com
 Date: 2014-04-18
 Plugin License: GPLv2
 
