@@ -1,0 +1,11 @@
+{
+	"name": "Ganbox Filter Plugin",
+	"description": "Some extra filters on user inputs in fields of question titile and description",
+	"version": "1.0",
+	"date": "2014-04-18",
+	"author": "Ganbox",
+	"author_uri": "https://ganbox.com",
+	"license": "GPLv2",
+	"min_q2a": "1.4",
+	"load_order": "after_db_init"
+}
